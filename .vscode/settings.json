@@ -1,0 +1,7 @@
+{
+    "less.compile": {
+        "compress": true, // true => удалить лишние пробелы
+        "sourceMap": true, // true => генерировать исходные карты (файлы .css.map)
+        "out": false, // НЕ выводить файлы .css 
+    }
+}
